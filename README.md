@@ -1,6 +1,4 @@
-## **2. CI/CD Automation for Cloud-Native Applications**
-
-<h1 align="center"> CI/CD Automation for Cloud-Native Applications </h1>
+## <h1 align="center"> CI/CD Automation for Cloud-Native Applications </h1>
 <p align="center">
   <img alt="CI/CD Automation" title="CI/CD Pipeline" src="https://via.placeholder.com/500x200">
 </p>
